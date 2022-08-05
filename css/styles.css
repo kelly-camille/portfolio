@@ -15,6 +15,7 @@ h2{
   box-sizing: content-box;
   margin: auto;
   padding: 170px;
+  padding-top: 5px;
   background-color: lavender;
   color: #616161
  
@@ -41,6 +42,7 @@ h3{
   box-sizing: content-box;
   margin: auto;
   padding: 170px;
+  padding-top: 5px;
   background-color: lavender;
   color: #616161
   
