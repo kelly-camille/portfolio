@@ -1,5 +1,14 @@
-.sidebar {
-    width: 200px;
+.sidebarleft {
+    width: 350px;
     float: left;
 }
 
+img{
+    max-width: 350px;
+    height: auto;
+}
+
+.sidebarright{
+    width: 600px;
+    float:right
+}
