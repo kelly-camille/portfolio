@@ -17,6 +17,7 @@ This webpage introduces Kelly Bruce and showcases her skills. It includes an "ab
 ## Setup/Installation Requirements
 
 * To edit: $git clone https://github.com/kelly-camille/portfolio.git - 
+  * open index in a text editer of your choice
 * to view: https://kelly-camille.github.io/portfolio/
 
 
