@@ -1,3 +1,7 @@
+html{
+ background-color: lavender; 
+}
+
 h1 {
   color: #616161
 }
@@ -11,11 +15,11 @@ h2{
   width: 400px;
   float: left;
   height: 650px;
-  border: 2px dotted black;
+  border: 2px dotted lavender;
   box-sizing: content-box;
   margin: auto;
   padding: 170px;
-  padding-top: 5px;
+  padding-top: 25px;
   background-color: lavender;
   color: #616161
  
@@ -38,14 +42,19 @@ h3{
   width: 400px;
   float: left;
   height: 650px ;
-  border: 2px dotted black;
+  border: 2px dotted lavender;
   box-sizing: content-box;
   margin: auto;
   padding: 170px;
-  padding-top: 5px;
+  padding-top: 25px;
   background-color: lavender;
   color: #616161
   
+}
+
+a {
+  color: #616161;
+  font-size: large;
 }
 
 .language {
