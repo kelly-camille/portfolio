@@ -8,32 +8,40 @@ h2{
 }
 
 .sidebarleft {
-  width: 350px;
+  width: auto;
   float: left;
-  height: fit-content ;
+  height: 650px ;
   border: 2px dotted black;
+  margin: auto;
   box-sizing: content-box;
   padding: 25px;
   background-color: lavender;
   color: #616161
+  
 }
 
 img{
   max-width: 350px;
   height: auto;
+
 }
 
 
 .sidebarright {
-  width: 350px;
+  width: auto;
   float: right;
-  height: fit-content;
+  height: 650px;
   border: 2px dotted black;
+  margin: auto;
   box-sizing: content-box;
   padding: 25px;
   background-color: lavender;
   color: #616161
   
-  
 }
+
+.language {
+font-size: x-small;
+}
+
 
