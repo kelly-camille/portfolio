@@ -8,7 +8,12 @@ img{
   height: auto;
 }
 
-.sidebarright{
-  width: 850px;
-  float:right
+
+.sidebarright {
+  width: fit-content;
+  float: right;
+  height: fit-content;
+  border: 2px solid black;
+  box-sizing: content-box;
+  padding: 25px;
 }
