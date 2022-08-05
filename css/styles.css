@@ -8,15 +8,17 @@ h2{
 }
 
 .sidebarleft {
-  width: auto;
+  width: 400px;
   float: left;
-  height: 650px ;
+  height: 650px;
   border: 2px dotted black;
-  margin: auto;
   box-sizing: content-box;
-  padding: 25px;
+  margin: auto;
+  padding: 170px;
   background-color: lavender;
   color: #616161
+ 
+
   
 }
 
@@ -26,15 +28,19 @@ img{
 
 }
 
+h3{
+  font-size: x-large;
+}
+
 
 .sidebarright {
-  width: auto;
-  float: right;
-  height: 650px;
+  width: 400px;
+  float: left;
+  height: 650px ;
   border: 2px dotted black;
-  margin: auto;
   box-sizing: content-box;
-  padding: 25px;
+  margin: auto;
+  padding: 170px;
   background-color: lavender;
   color: #616161
   
