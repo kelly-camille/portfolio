@@ -23,7 +23,7 @@ This webpage introduces Kelly Bruce and showcases her skills. It includes an "ab
 
 ## Known Bugs
 
-* Size of boxes must be in px
+* Size of box models must be in px
 
 ## License
 MIT
