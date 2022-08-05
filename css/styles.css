@@ -1,6 +1,21 @@
+h1 {
+  color: #616161
+}
+
+h2{
+  font-size: medium;
+  color: #616161
+}
+
 .sidebarleft {
   width: 350px;
   float: left;
+  height: fit-content ;
+  border: 2px dotted black;
+  box-sizing: content-box;
+  padding: 25px;
+  background-color: lavender;
+  color: #616161
 }
 
 img{
@@ -10,10 +25,15 @@ img{
 
 
 .sidebarright {
-  width: fit-content;
+  width: 350px;
   float: right;
   height: fit-content;
-  border: 2px solid black;
+  border: 2px dotted black;
   box-sizing: content-box;
   padding: 25px;
+  background-color: lavender;
+  color: #616161
+  
+  
 }
+
