@@ -4,7 +4,14 @@ html {
 }
 
 h1 {
+  animation: 3s linear 1s infinite running slidein;
   color: #616161
+}
+
+@keyframes h1 {
+  from { margin-left: 50px;}
+  to   { margin-right: 50px; }
+  
 }
 
 h2 {
