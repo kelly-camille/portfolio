@@ -1,17 +1,14 @@
 html{
  background-color: lavender; 
-
 }
 
 h1 {
   color: #616161
-
 }
 
 h2{
   font-size: medium;
   color: #616161
-
 }
 
 .sidebarleft {
@@ -25,13 +22,11 @@ h2{
   padding-top: 25px;
   background-color: lavender;
   color: #616161
-
 }
 
 img{
   max-width: 350px;
   height: auto;
-
 }
 
 h3{
@@ -49,18 +44,15 @@ h3{
   padding: 170px;
   background-color: lavender;
   color: #616161
-  
 }
 
 a {
   color: #616161;
   font-size: large;
-  
 }
 
 .language {
 font-size: x-small;
-
 }
 
 
